@@ -3,7 +3,7 @@ Final project for ELEC299
 
 The goal of the final project was to create an algorithm that operates a rover to move through an obstacle course, pick up a flag, and return to the start.
 
-# Functionality/Hardware
+# Functions/Hardware
 
 - Line following algorithm to follow black pathway
 
@@ -12,6 +12,8 @@ The goal of the final project was to create an algorithm that operates a rover t
 - Servo motor to grab the flag
 
 - Dual motor controller/reading encoders to operate motors
+
+- Functions for performing turns
 
 - Audrino Uno Board
 
